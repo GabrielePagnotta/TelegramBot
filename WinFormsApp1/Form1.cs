@@ -67,7 +67,7 @@ namespace WinFormsApp1
         {
             if (e is ApiRequestException e1)
             {
-                await client.SendTextMessageAsync("-812711304", e.Message.ToString());
+                await client.SendTextMessageAsync("-4043679314", e.Message.ToString());
             }
         }
 
